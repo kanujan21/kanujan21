@@ -1,3 +1,4 @@
+![logo](https://github.com/kanujan21/kanujan21/blob/main/ChatGPT%20Image%20Feb%2010%2C%202026%2C%2011_05_06%20PM.png)
 <h1 align="center">Hi 👋, I'm SARAVANAPAVAN KANUJAN</h1>
 
 <h3 align="center">
