@@ -1,49 +1,121 @@
-![logo](https://github.com/kanujan21/kanujan21/blob/main/ChatGPT%20Image%20Feb%2010%2C%202026%2C%2011_05_06%20PM.png)
-<h1 align="center">Hi 👋, I'm SARAVANAPAVAN KANUJAN</h1>
+# 👋 Hi, I'm SARAVANAPAVAN KANUJAN
 
 <h3 align="center">
-Associate Software Engineer | Full-Stack Developer <br>
-Building scalable and user-friendly web applications
+Full Stack Developer | AI Automation | Web Application Development
 </h3>
 
 <p align="center">
-📍 Sri Lanka | 💼 Open to Associate Software Engineer Opportunities
+Building scalable, user-friendly web applications and AI-powered solutions
+</p>
+
+<p align="center">
+📍 Sri Lanka | 💻 Full Stack Developer
 </p>
 
 ---
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-### 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🌱 Currently improving skills in **System Design, Spring Boot, REST APIs, Cloud Deployment**
-- 👯 Interested in collaborating on **Full-Stack Web Applications (React + Spring Boot)**
-- 💬 Ask me about **React, TypeScript, Spring Boot, MySQL**
-- 📫 Reach me at: **kanujankanu21@gmail.com**
-- ⚡ I enjoy solving real-world problems through clean and efficient code.
+## 🚀 About Me
+
+I'm a Computer Science undergraduate and Full Stack Developer with hands-on experience in developing web applications, RESTful APIs, database-driven systems, and AI-powered solutions.
+
+Currently working as a **Full Stack Developer at Sukan Marketing Company**, where I develop and maintain web applications, integrate frontend and backend systems, design RESTful APIs, manage databases, and build AI-based chatbot systems for customer interaction automation.
+
+### 💼 What I Work With
+
+* 🌐 Full-Stack Web Application Development
+* ⚛️ React & TypeScript frontend development
+* ☕ Spring Boot & REST API development
+* 🗄️ MySQL & MongoDB database management
+* 🤖 AI-based chatbot integration
+* 🔗 Frontend, backend & API integration
+* 🧪 API testing with Postman
+* 🔧 Git & GitHub version control
+* 🐛 Debugging, feature development & system enhancement
 
 ---
 
-### 🛠 Tech Stack
+## 🏢 Current Professional Experience
 
-<p align="left">
+### Full Stack Developer — Sukan Marketing Company
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,ts,html,css" />
+**02/2026 – Present | Manipay, Jaffna**
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=spring,java,python" />
+* Developed and maintained web applications using modern technologies
+* Integrated frontend and backend systems for scalable solutions
+* Designed and developed RESTful APIs
+* Managed application databases
+* Built and integrated AI-based chatbot systems
+* Automated customer interactions through AI solutions
+* Improved system performance, usability, and user experience
+* Collaborated with team members to deliver reliable software solutions
 
-<!-- Database -->
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,java,python,flask" />
+</p>
+
+### Databases
+
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-<!-- Tools -->
+### Tools & Development
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
+
+### 🍽️ Restaurant Management System
+
+**Team Project**
+
+* Developed a system for managing customer, order, and transaction data
+* Implemented backend logic for structured data processing
+* Worked with database-driven application functionality
+
+---
+
+### 🏧 ATM System
+
+**Individual Project**
+
+* Developed a system simulating banking operations
+* Implemented withdrawals, deposits, and balance management
+* Added input validation and error handling
+* Designed backend logic for transaction records
+* Focused on secure and reliable transaction processing
+
+---
+
+### 🌾 Paddy Leaf Disease Identification System
+
+**Final Year Project — Individual**
+
+* Developed an AI-based system for analyzing image data
+* Processed image data for disease prediction
+* Implemented prediction and result processing functionality
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -52,9 +124,10 @@ Building scalable and user-friendly web applications
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanujan21&layout=compact&theme=tokyonight" height="160"/>
 
 </p>
+
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kanujan21&theme=default" height="160"/>
@@ -62,10 +135,37 @@ Building scalable and user-friendly web applications
 
 ---
 
-### 🤝 Connect with Me
+## 🎯 Currently Learning
+
+* System Design
+* Spring Boot
+* REST API Development
+* Cloud Deployment
+* AI Automation
+* Full-Stack Application Architecture
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-LinkedIn
+
+<a href="https://linkedin.com/in/saravanapavan-kanujan-954a61328/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
+<a href="mailto:kanujankanu21@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/kanujan21" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
